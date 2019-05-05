@@ -3,11 +3,17 @@ Open command prompt and cd in folder, then type npm install if node_modules have
 Run by typing node app.js while in folder
 
 Access routes by http://localhost:3000/
+
 Access post requests with curl on a different command prompt
+
 i.e.
+
 curl --data "username=JohnDoe&password=Foobar&classification=Film&genre=Theatre"  http://localhost:3000/register 
+
 in command prompt
+
 then
+
 http://localhost:3000/login?username=JohnDoe&password=Foobar
 
 in browser
