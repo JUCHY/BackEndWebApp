@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "JUCHEN",
+      "password": "Juchen2!",
+      "classification": "Film",
+      "genre": "R&B"
+    },
+    {
+      "username": "Naruto",
+      "password": "Sasuke",
+      "classification": "Film",
+      "genre": "Jazz"
+    },
+    {
+      "username": "Gaara",
+      "password": "Bijuu",
+      "classification": "Theatre",
+      "genre": "R&B"
+    }
+  ]
+}
